@@ -4,3 +4,8 @@ blue
 white
 ##brown
 purple
+grey
+silver
+golden
+violet
+peach
