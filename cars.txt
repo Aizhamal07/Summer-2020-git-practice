@@ -7,4 +7,11 @@ Bentley
 audi
 honda
 hyundai
+<<<<<<< Updated upstream
 jeep
+=======
+KIA
+Nissan
+Lexus
+Ferrari
+>>>>>>> Stashed changes
